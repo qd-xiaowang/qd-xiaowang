@@ -2,8 +2,8 @@
 
 | Base Info                                                    | Dashboard Data                                               |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1. ```csdn``` 10k fans up.<br/><br/>2. I am now writing a ERP system.<br/><br/>3. My Email: 337674757@qq.com<br/><br/> | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qd-xiaowang)](https://github.com/anuraghazra/github-readme-stats)
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=qd-xiaowang&show_icons=true&theme=buefy&hide_border=true" alt="" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qd-xiaowang&layout=compact&theme=buefy&hide_border=true" alt="" /> | -->
+| 1. ```csdn``` 10k fans up.<br/><br/>2. I am now writing a ERP system.<br/><br/>3. My Email: 337674757@qq.com<br/><br/> |
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qd-xiaowang&show_icons=true&theme=radical)
 
 <div align="center"><b>Here's something else</b></div>
 
