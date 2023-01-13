@@ -15,17 +15,14 @@ I'm working on:<br />
 
 <!-- profile logo 个人资料徽标 -->
 <div align="center">
-  <a href="https://blog.sunguoqi.com/"><img src="https://img.shields.io/badge/website-博客-blue" /></a>&emsp;
-  <a href="https://twitter.com/sun0225SUN/"><img src="https://img.shields.io/badge/twitter-推特-blue" /></a>&emsp;
-  <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
-  <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/bilibili-B站-ff69b4" /></a>&emsp;
-  <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/zhihu-知乎-blue" /></a>&emsp;
+  <a href="https://blog.csdn.net/weixin_44001222/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
+  <a href="https://space.bilibili.com/403725157/"><img src="https://img.shields.io/badge/bilibili-B站-ff69b4" /></a>&emsp;
 <!-- visitor statistics logo 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" alt="访客统计" /></div>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=qd-xiaowang&left_color=gray&right_color=pink" alt="访客统计" /></div>
 
 ### My sign
 
-靡不有初，鲜克有终
+清风徐来，水波不兴
 
 ## Sponsors
 
