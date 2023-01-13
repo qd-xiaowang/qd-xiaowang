@@ -7,8 +7,20 @@
 
 <div align="center"><b>Here's something else</b></div>
 
+<div align="center">
 I'm working on:<br />
 ![](https://img.shields.io/badge/-Vue-brightgreen)  ![](https://img.shields.io/badge/-Python-red) ![](https://img.shields.io/badge/-TypeScript-blue) ![](https://img.shields.io/badge/-JaveScript-yellow) ![](https://img.shields.io/badge/-Nodejs-success)
+</div>
+
+<!-- profile logo 个人资料徽标 -->
+<div align="center">
+  <a href="https://blog.sunguoqi.com/"><img src="https://img.shields.io/badge/website-博客-blue" /></a>&emsp;
+  <a href="https://twitter.com/sun0225SUN/"><img src="https://img.shields.io/badge/twitter-推特-blue" /></a>&emsp;
+  <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" />111</a>&emsp;
+  <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/bilibili-B站-ff69b4" /></a>&emsp;
+  <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/zhihu-知乎-blue" /></a>&emsp;
+<!-- visitor statistics logo 访客数统计徽标 -->
+  <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" alt="访客统计" /></div>
 
 ### My sign
 
