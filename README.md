@@ -14,4 +14,12 @@ I'm working on:<br />
 
 风陵渡口初相遇
 
+## Sponsors
+
+<p align="center">
+  <a href="https://cdn.jsdelivr.net/gh/antfu/static/sponsors.svg">
+    <img src='https://cdn.jsdelivr.net/gh/antfu/static/sponsors.svg'/>
+  </a>
+</p>
+
 <div align="right">-- qd-xiaowang 2023</div>
