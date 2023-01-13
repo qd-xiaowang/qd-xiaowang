@@ -3,7 +3,7 @@
 | Base Info                                                    | Dashboard Data                                               |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1. CSDN <font size=15>10k</font> fans up.<br/><br/>2. I am now writing a ERP system.<br/><br/>3. My Email: 337674757@qq.com<br/><br/>4. Aliyun Community blog  specialist<br/> | ![image](https://user-images.githubusercontent.com/64092346/212252487-e7d013fe-fb86-4ba5-ba39-268a1f2b691e.png)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qd-xiaowang&show_icons=true&theme=radical) | ✨ 2023 Feature💎💎💎<br> 🚀 2022  front-end engineer👑👑👑<br>🏅2020 network engineer 🏆🏆🏆<br> |
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qd-xiaowang&show_icons=true&theme=radical) | 🏆2021 &nbsp; &nbsp;💎💎💎<br>🥇2022  &nbsp; &nbsp;👑👑👑<br>await... |
 
 <div align="center"><b>Here's something else</b></div><br/>
 
@@ -37,4 +37,4 @@
 
 ## License
 
-[MIT](./LICENSE) License © 2023 [Anthony Fu](https://github.com/antfu)
+[MIT](./LICENSE) License © 2023 [qd-xiaowang](https://github.com/qd-xiaowang)
