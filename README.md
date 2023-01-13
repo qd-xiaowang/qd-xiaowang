@@ -3,7 +3,7 @@
 | Base Info                                                    | Dashboard Data                                               |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1. ```csdn``` 10k fans up.<br/><br/>2. I am now writing a ERP system.<br/><br/>3. My Email: 337674757@qq.com<br/><br/> | ![image](https://user-images.githubusercontent.com/64092346/212252487-e7d013fe-fb86-4ba5-ba39-268a1f2b691e.png)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qd-xiaowang&show_icons=true&theme=radical) |111 |
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qd-xiaowang&show_icons=true&theme=radical) | 🏆 |
 
 <div align="center"><b>Here's something else</b></div>
 
@@ -12,7 +12,7 @@ I'm working on:<br />
 
 ### My sign
 
-风陵渡口初相遇
+靡不有初，鲜克有终
 
 ## Sponsors
 
