@@ -18,7 +18,7 @@ I'm working on:<br />
   <a href="https://blog.csdn.net/weixin_44001222/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
   <a href="https://space.bilibili.com/403725157/"><img src="https://img.shields.io/badge/bilibili-B站-ff69b4" /></a>&emsp;
 <!-- visitor statistics logo 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=qd-xiaowang&left_color=gray&right_color=pink" alt="访客统计" /></div>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=qd-xiaowang.visitor-badge&left_color=gray&right_color=pink" alt="访客统计" /></div>
 
 ### My sign
 
