@@ -23,3 +23,7 @@ I'm working on:<br />
 </p>
 
 <div align="right">-- qd-xiaowang 2023</div>
+
+## License
+
+[MIT](./LICENSE) License © 2023 [Anthony Fu](https://github.com/antfu)
