@@ -9,7 +9,9 @@
 
 <div align="center">
 <b>I'm teaching on:</b><br />
+  
 ![](https://img.shields.io/badge/-Vue-brightgreen)  ![](https://img.shields.io/badge/-Python-red) ![](https://img.shields.io/badge/-TypeScript-blue) ![](https://img.shields.io/badge/-JaveScript-yellow) ![](https://img.shields.io/badge/-Nodejs-success)
+
 </div>
 
 <!-- profile logo 个人资料徽标 -->
