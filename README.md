@@ -11,6 +11,11 @@
   
 ![](https://img.shields.io/badge/-Vue-brightgreen)  ![](https://img.shields.io/badge/-Python-red) ![](https://img.shields.io/badge/-TypeScript-blue) ![](https://img.shields.io/badge/-JaveScript-yellow) ![](https://img.shields.io/badge/-Nodejs-success)
 
+![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
 </div>
 
 <!-- profile logo 个人资料徽标 -->
