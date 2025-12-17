@@ -25,9 +25,9 @@
 
 ### My sign
 
-清风徐来，水波不兴
+遭受痛苦是因为对无常的事物抱有恒常的期待
 
-<div align="right">-- qd-xiaowang 2023</div>
+<div align="right">-- qd-xiaowang 2025/12/16</div>
 
 ## License
 
