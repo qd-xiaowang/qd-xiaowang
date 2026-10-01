@@ -1,4 +1,12 @@
-<h3> Welcome to qd-xiaowang home! 👋 </h3> <br/>
+```bash
+$ whoami?
+
+hsWang
+Frontend Developer exploring AI & Bioinformatics. (now 2026.
+
+> TypeScript / React / Python / D3.js
+> Shenzhen, China
+```
 
 <!--
 | Base Info                                                    | Dashboard Data                                               |
@@ -9,14 +17,18 @@
 
 <div align="center">
 
-### My Channel
+### elsewhere
 
 </div>
 
 <!--
 <div align="center">
   
-![](https://img.shields.io/badge/-Vue-brightgreen)  ![](https://img.shields.io/badge/-Python-red) ![](https://img.shields.io/badge/-TypeScript-blue) ![](https://img.shields.io/badge/-JaveScript-yellow) ![](https://img.shields.io/badge/-Nodejs-success)
+![](https://img.shields.io/badge/-Vue-brightgreen)  
+![](https://img.shields.io/badge/-Python-red) 
+![](https://img.shields.io/badge/-TypeScript-blue) 
+![](https://img.shields.io/badge/-JaveScript-yellow) 
+![](https://img.shields.io/badge/-Nodejs-success)
 
 ![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
@@ -24,20 +36,18 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
 </div>
-
 -->
 
 <!-- profile logo 个人资料徽标 -->
 <div align="center">
-  <a href="https://blog.csdn.net/weixin_44001222/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
-  <a href="https://space.bilibili.com/403725157/"><img src="https://img.shields.io/badge/bilibili-B站-ff69b4" /></a>&emsp;
 
-### My sign
+<a href="https://blog.csdn.net/weixin_44001222/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
+<a href="https://space.bilibili.com/403725157/"><img src="https://img.shields.io/badge/bilibili-B站-ff69b4" /></a>&emsp;
+
+### quote
 
 遭受痛苦是因为对无常的事物抱有恒常的期待
 
-<div align="right">-- qd-xiaowang 2025/12/16</div>
+<div align="right">-- hsWang 2025/12/16</div>
 
-## License
-
-[MIT](./LICENSE) License © 2023 [qd-xiaowang](https://github.com/qd-xiaowang)
+© 2023 [hsWang](https://github.com/h5Wan9)
